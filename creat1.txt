@@ -3,9 +3,8 @@ creat first time !!!
 first us :
 16-01-20 am:11:10
 
-<<<<<<< HEAD
 Second :
 16-01-21 am: 8:55
-=======
+
 00-00-00
->>>>>>> dev
+
